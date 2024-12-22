@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE" />  <!-- Background color of the button -->
+    <corners android:radius="50dp" />  <!-- Large radius for an oval effect -->
+</shape>
